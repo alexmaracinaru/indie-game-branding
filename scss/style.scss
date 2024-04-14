@@ -1,0 +1,187 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Domine:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+:root {
+  --primary-font: "Roboto", sans-serif;
+  --secondary-font: "Domine", serif;
+  --indie-blue: #0f172a;
+  --indie-purple: #662ad2;
+  --indie-gray: #b6b6d0;
+  --indie-green: #63d9a0;
+  --indie-yellow: #ffc524;
+  --indie-teal: #82e6e6;
+  --indie-dark-gray: #626271;
+  --indie-orange: #ff8e4f;
+  --indie-lilla: #ca9bf9;
+  --indie-light-blue: #739aff;
+  --indie-light-green: #8bfac4;
+  --indie-light-yellow: #ffda72;
+  --indie-lighter-yellow: #ffe7a5;
+  --indie-light-teal: #b1f4f4;
+  --indie-light-orange: #feab7c;
+  --indie-lighter-orange: #ffcaac;
+  --indie-light-purple: #dcbafd;
+  --indie-lighter-purple: #ebd6ff;
+  --indie-lightest-purple: #f4e8ff;
+}
+.wrapper {
+  max-width: 1204px;
+  margin: auto;
+}
+.hero {
+  position: relative;
+  background-color: var(--indie-purple);
+  height: 100vh;
+  .logo {
+    color: var(--indie-blue);
+    a {
+      padding-left: 5px;
+    }
+  }
+  .header {
+    font-family: var(--primary-font);
+    padding-top: 70px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    a {
+      text-decoration: none;
+      color: var(--indie-gray);
+    }
+    nav {
+      a {
+        padding-left: 70px;
+        font-size: 1em;
+        font-weight: 500;
+      }
+    }
+  }
+  h1,
+  h2 {
+    font-size: 5em;
+    font-family: var(--primary-font);
+    color: var(--indie-blue);
+    font-weight: 500;
+    max-width: 800px;
+    padding-top: 150px;
+  }
+  h2 {
+    color: white;
+    padding-top: 0;
+    padding-bottom: 50px;
+  }
+  .desc {
+    font-family: var(--secondary-font);
+    color: var(--indie-gray);
+    font-size: 20px;
+    max-width: 550px;
+    padding-top: 150px;
+    line-height: 1.4;
+    font-weight: 200;
+  }
+  .effortless {
+    position: absolute;
+    top: 290px;
+    right: 220px;
+  }
+}
+.main {
+  .subheading {
+    color: var(--indie-blue);
+    font-family: var(--secondary-font);
+    font-size: 1em;
+    padding-top: 60px;
+    font-weight: 200;
+  }
+  .main-heading {
+    font-family: var(--primary-font);
+    font-size: 40px;
+    font-weight: 500;
+    max-width: 550px;
+    padding-top: 60px;
+  }
+  .cards-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, auto);
+    gap: 30px;
+    margin-top: 70px;
+    .card {
+      width: 380px;
+      height: 520px;
+      padding: 70px;
+      border-radius: 20px;
+      .card-title {
+        font-family: var(--primary-font);
+        font-weight: 500;
+        font-size: 1em;
+        padding-bottom: 100px;
+      }
+      .card-desc {
+        font-family: var(--secondary-font);
+        font-size: 1.5em;
+        max-width: 190px;
+        padding-top: 110px;
+        padding-bottom: 20px;
+      }
+      .card-button {
+        padding: 10px 20px;
+        border-radius: 50px;
+        background-color: var(--indie-blue);
+        font-family: var(--primary-font);
+        font-weight: 600;
+        border: none;
+        cursor: pointer;
+        color: white;
+        &:hover {
+          color: var(--indie-gray);
+          background-color: #121c33;
+        }
+      }
+      .card-extra {
+        font-family: var(--secondary-font);
+        line-height: 1.4;
+        font-weight: 200;
+        padding-top: 30px;
+      }
+    }
+  }
+}
+.separator {
+  border-top: 1px solid var(--indie-gray);
+  margin-top: 100px;
+}
+.footer {
+  padding-top: 50px;
+  padding-bottom: 100px;
+  display: flex;
+  justify-content: space-between;
+  .logo {
+    font-family: var(--primary-font);
+  }
+  .copyright {
+    font-family: var(--primary-font);
+  }
+}
+
+.green {
+  background-color: var(--indie-green);
+}
+.yellow {
+  background-color: var(--indie-yellow);
+}
+.teal {
+  background-color: var(--indie-teal);
+}
+.orange {
+  background-color: var(--indie-orange);
+}
+.lilla {
+  background-color: var(--indie-lilla);
+}

@@ -1,0 +1,29 @@
+{
+  "name": "indie-game-branding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch scss:css",
+  "serve": "browser-sync start --server --files 'css/*.css, *.html'",
+  "start": "concurrently \"npm run sass\" \"npm run serve\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmaracinaru/indie-game-branding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmaracinaru/indie-game-branding/issues"
+  },
+  "homepage": "https://github.com/alexmaracinaru/indie-game-branding#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.2",
+    "concurrently": "^8.2.2",
+    "http-server": "^14.1.1",
+    "sass": "^1.75.0"
+  }
+}

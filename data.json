@@ -1,0 +1,119 @@
+{
+    "phases": [
+        {
+            "title": "Discovery Phase. Uncover Your Game's Essence",
+            "description": "This phase involves deep exploration into the identity of your game and its potential audience. It consists of two primary components:",
+            "cards": [
+                {
+                    "color": "green",
+                    "title": "Player Persona",
+                    "description": "Creating player personas is a crucial step in understanding who your game is for. Personas help in tailoring game design, marketing, and user experiences to meet the specific needs and desires of your target audience.",
+                    "buttonText": "Access Template"
+                },
+                {
+                    "color": "light-green",
+                    "title": "Game Essence",
+                    "description": "Understanding your game’s core themes, values, and unique selling points is essential for differentiating it in the market.",
+                    "buttonText": "Get Worksheet"
+                }
+            ]
+        },
+        {
+            "title": "Strategy Phase. Craft Your Game's Place in the Market",
+            "description": "This phase builds upon the understanding developed in the Discovery phase, focusing on positioning the game effectively within the competitive landscape and developing a coherent brand messaging strategy.",
+            "cards": [
+                {
+                    "color": "yellow",
+                    "title": "Market Analysis",
+                    "description": "A comprehensive understanding of the market is crucial for positioning your game. This involves analyzing competitors, understanding market trends, and identifying where your game fits within the market landscape.",
+                    "buttonText": "Download Template"
+                },
+                {
+                    "color": "light-yellow",
+                    "title": "SWOT Analysis",
+                    "description": "Evaluating your game’s internal strengths and weaknesses, along with external opportunities and threats, is vital for strategic planning.",
+                    "buttonText": "Get Template"
+                },
+                {
+                    "color": "lighter-yellow",
+                    "title": "Brand Messaging",
+                    "description": "Developing a clear and compelling brand message is crucial for communicating the value of your game to potential players and distinguishing it from competitors.",
+                    "buttonText": "Download Playbook"
+                }
+            ]
+        },
+        {
+            "title": "Identity Phase. Design Your Game's Brand",
+            "description": "This phase is centered around developing a strong brand identity that not only appeals visually but also aligns with the game's core themes and resonates with the target player personas. It involves two main components:",
+            "cards": [
+                {
+                    "color": "teal",
+                    "title": "Visual Identity",
+                    "description": "Your game's visual identity includes all the graphic elements that will be used across the game and its marketing materials. This is crucial for making a strong first impression and establishing recognition.",
+                    "buttonText": "Get Identity Kit"
+                },
+                {
+                    "color": "light-teal",
+                    "title": "Verbal Identity",
+                    "description": "The verbal identity complements the visual identity by defining how the brand communicates in written and spoken word, establishing a consistent voice that enhances the game’s narrative and connection with your audience.",
+                    "buttonText": "Get the Guide"
+                }
+            ]
+        },
+        {
+            "title": "Activation Phase. Engage Your Audience",
+            "description": "This phase involves multiple strategies to ensure that your game not only reaches its target audience but also engages them in meaningful ways to foster loyalty and advocacy.",
+            "cards": [
+                {
+                    "color": "orange",
+                    "title": "UX/UI Design",
+                    "description": "Creating an intuitive and enjoyable user experience is critical for keeping players engaged and reducing churn. This checklist helps ensure that every aspect of the game's user interface enhances the player's experience.",
+                    "buttonText": "See UX/UI Checklist"
+                },
+                {
+                    "color": "light-orange",
+                    "title": "Community Building",
+                    "description": "Building a community around your game can significantly enhance player engagement and retention. This manual provides strategies for nurturing a vibrant and supportive community.",
+                    "buttonText": "Access Manual"
+                },
+                {
+                    "color": "lighter-orange",
+                    "title": "Real-Time Engagement",
+                    "description": "Utilizing platforms where gamers already spend their time can enhance engagement and provide direct feedback mechanisms.",
+                    "buttonText": "See Tools"
+                }
+            ]
+        },
+        {
+            "title": "Adaptation Phase. Evolve With Your Players",
+            "description": "This phase is about fine-tuning and evolving your game’s features, branding, and player interactions based on real-world feedback and insights. It consists of several critical components:",
+            "cards": [
+                {
+                    "color": "lilla",
+                    "title": "Feedback Integration",
+                    "description": "Effectively collecting, analyzing, and integrating player feedback is essential for iterative game development. This framework provides structured methods to gather and utilize feedback to enhance game features and user experience.",
+                    "buttonText": "Access System"
+                },
+                {
+                    "color": "light-purple",
+                    "title": "Brand Evolution",
+                    "description": "As the game matures, its branding may need to evolve to reflect changes in the game’s content, target audience, or competitive environment. This roadmap guides the strategic evolution of your game’s brand.",
+                    "buttonText": "See Roadmap"
+                },
+                {
+                    "color": "lighter-purple",
+                    "title": "User-Generated Content",
+                    "description": "Utilizing platforms where gamers already spend their time can enhance engagement and provide direct feedback mechanisms.",
+                    "buttonText": "Access Strategy"
+                }
+                ,
+                {
+                    "color": "lightest-purple",
+                    "title": "Community-Driven Development",
+                    "description": "Engaging the community in the development process to ensure the game evolves in ways that meet their interests and needs.",
+                    "buttonText": "See Methods"
+                }
+            ]
+        }
+    ]
+}
