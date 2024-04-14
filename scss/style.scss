@@ -144,14 +144,14 @@
           background-color: #121c33;
         }
       }
-      .card-extra {
-        font-family: var(--secondary-font);
-        line-height: 1.4;
-        font-weight: 200;
-        padding-top: 30px;
-      }
     }
   }
+}
+.extra {
+  font-family: var(--secondary-font);
+  line-height: 1.4;
+  font-weight: 200;
+  padding-top: 30px;
 }
 .separator {
   border-top: 1px solid var(--indie-gray);

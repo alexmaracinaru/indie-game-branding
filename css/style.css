@@ -145,7 +145,8 @@
   color: var(--indie-gray);
   background-color: #121c33;
 }
-.main .cards-container .card .card-extra {
+
+.extra {
   font-family: var(--secondary-font);
   line-height: 1.4;
   font-weight: 200;

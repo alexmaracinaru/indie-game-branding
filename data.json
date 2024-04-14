@@ -1,6 +1,7 @@
 {
     "phases": [
         {
+            "id": "discovery",
             "title": "Discovery Phase. Uncover Your Game's Essence",
             "description": "This phase involves deep exploration into the identity of your game and its potential audience. It consists of two primary components:",
             "cards": [
@@ -19,6 +20,7 @@
             ]
         },
         {
+            "id": "strategy",
             "title": "Strategy Phase. Craft Your Game's Place in the Market",
             "description": "This phase builds upon the understanding developed in the Discovery phase, focusing on positioning the game effectively within the competitive landscape and developing a coherent brand messaging strategy.",
             "cards": [
@@ -43,6 +45,7 @@
             ]
         },
         {
+            "id": "identity",
             "title": "Identity Phase. Design Your Game's Brand",
             "description": "This phase is centered around developing a strong brand identity that not only appeals visually but also aligns with the game's core themes and resonates with the target player personas. It involves two main components:",
             "cards": [
@@ -61,6 +64,7 @@
             ]
         },
         {
+            "id": "activation",
             "title": "Activation Phase. Engage Your Audience",
             "description": "This phase involves multiple strategies to ensure that your game not only reaches its target audience but also engages them in meaningful ways to foster loyalty and advocacy.",
             "cards": [
@@ -85,6 +89,7 @@
             ]
         },
         {
+            "id": "adaptation",
             "title": "Adaptation Phase. Evolve With Your Players",
             "description": "This phase is about fine-tuning and evolving your game’s features, branding, and player interactions based on real-world feedback and insights. It consists of several critical components:",
             "cards": [

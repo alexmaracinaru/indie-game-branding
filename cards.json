@@ -1,32 +1,43 @@
-[
-    {
-        "card_color": "#63d9a0",
-        "card_title": "Discovery",
-        "card_desc": "Tools for uncovering your game’s essence.",
-        "card_button": "See More"
-    },
-    {
-        "card_color": "#ffc524",
-        "card_title": "Strategy",
-        "card_desc": "Resources for crafting your game's market strategy.",
-        "card_button": "See More"
-    },
-    {
-        "card_color": "#82e6e6",
-        "card_title": "Identity",
-        "card_desc": "Guidelines and templates for visual and verbal identity.",
-        "card_button": "See More"
-    },
-    {
-        "card_color": "#ff8e4f",
-        "card_title": "Activation",
-        "card_desc": "Strategies for engaging your audience.",
-        "card_button": "See More"
-    },
-    {
-        "card_color": "#ca9bf9",
-        "card_title": "Adaptation",
-        "card_desc": "Methods for evolving with player feedback.",
-        "card_button": "See More"
-    }
-]
+{
+    "cards": [
+        {
+            "id": "discovery",
+            "color": "green",
+            "title": "Discovery",
+            "description": "Tools for uncovering your game's essence.",
+            "buttonText": "See More"
+        },
+        {
+            "id": "strategy",
+            "color": "yellow",
+            "title": "Strategy",
+            "description": "Resources for crafting your game's market strategy.",
+            "buttonText": "See More"
+        },
+        {
+            "id": "identity",
+            "color": "teal",
+            "title": "Identity",
+            "description": "Guidelines and templates for visual and verbal identity.",
+            "buttonText": "See More"
+        },
+        {
+            "id": "activation",
+            "color": "orange",
+            "title": "Activation",
+            "description": "Strategies tailored for your game to engage your audience.",
+            "buttonText": "See More"
+        },
+        {
+            "id": "adaptation",
+            "color": "lilla",
+            "title": "Adaptation",
+            "description": "Methods for evolving your game with player feedback.",
+            "buttonText": "See More"
+        },
+        {
+            "color": "extra",
+            "description": "Whether you're in the ideation phase or looking to refine your game's branding and UX, navigate through the sections as suits your current needs. Each part includes interactive templates, step-by-step guides, and examples to aid your understanding and application. For a seamless experience, follow the suggested flow or else dive into specific sections relevant to your immediate needs."
+        }
+    ]
+}

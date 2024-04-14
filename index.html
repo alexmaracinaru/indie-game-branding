@@ -53,7 +53,20 @@
         <h4 class="main-heading">
             This toolkit is designed to be your companion in the journey of branding your indie game.
         </h4>
-        <div class="cards-container wrapper">
+        <div class="cards-container wrapper" id="cards-container"></div>
+        <template id="card-template">
+            <div class="card">
+                <div class="card-title"></div>
+                <div class="card-desc"></div>
+                <button class="card-button"></button>
+            </div>
+        </template>
+        <template id="card-extra-template">
+            <div class="card extra">
+                <div class="card-extra-content"></div>
+            </div>
+        </template>
+       <!--  <div class="cards-container wrapper">
             <div class="card green">
                 <div class="card-title">
         Discovery
@@ -115,7 +128,7 @@
                     Whether you're in the ideation phase or looking to refine your game's branding and UX, navigate through the sections as suits your current needs. Each part includes interactive templates, step-by-step guides, and examples to aid your understanding and application. For a seamless experience, follow the suggested flow or else dive into specific sections relevant to your immediate needs.
                 </div>
             </div>
-        </div>
+        </div> -->
     </main>
     <div class="separator wrapper"></div>
     <footer class="footer wrapper">
@@ -129,5 +142,6 @@
           <span class="copyright">© 2024. All rights reserved.</span>
 
     </footer>
+    <script src="script.js"></script>
   </body>
 </html>
