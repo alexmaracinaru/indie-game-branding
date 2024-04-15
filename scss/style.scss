@@ -137,11 +137,11 @@
         font-family: var(--primary-font);
         font-weight: 600;
         border: none;
+        transition: background-color 0.3s ease;
         cursor: pointer;
         color: white;
         &:hover {
-          color: var(--indie-gray);
-          background-color: #121c33;
+          background-color: #192b54;
         }
       }
     }
