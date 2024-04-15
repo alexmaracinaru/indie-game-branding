@@ -50,7 +50,6 @@ function populateHTML(data) {
     mainWrapper.appendChild(phaseTemplate);
   });
 }
-
 function populateCards(cards) {
   const cardsContainer = document.querySelector(".cards-container.wrapper");
 
@@ -74,7 +73,7 @@ function populateCards(cards) {
       };
       cardsContainer.appendChild(cardTemplate);
     } else {
-      // Extra card without a button
+      // The (extra) card without a button
       const cardExtraTemplate = document
         .getElementById("card-extra-template")
         .content.cloneNode(true);

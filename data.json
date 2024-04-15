@@ -30,21 +30,21 @@
                 {
                     "color": "yellow",
                     "title": "Market Analysis",
-                    "description": "A comprehensive understanding of the market is crucial for positioning your game. This involves analyzing competitors, understanding market trends, and identifying where your game fits within the market landscape.",
+                    "description": "A comprehensive understanding of the market is much needed for positioning your game. This involves analyzing competitors, understanding market trends, and identifying where your game fits within the market landscape.",
                     "buttonText": "Download Template",
                     "buttonLink": "https://alexandramaracinaru.notion.site/Player-Persona-Template-c922453157104731bf43c09730d3bc18"
                 },
                 {
                     "color": "light-yellow",
                     "title": "SWOT Analysis",
-                    "description": "Evaluating your game’s internal strengths and weaknesses, along with external opportunities and threats, is vital for strategic planning.",
+                    "description": "Evaluating your game’s internal strengths and weaknesses, along with external opportunities and threats, serves for both short-term and long-term strategic planning.",
                     "buttonText": "Get Template",
                     "buttonLink": "https://alexandramaracinaru.notion.site/Player-Persona-Template-c922453157104731bf43c09730d3bc18"
                 },
                 {
                     "color": "lighter-yellow",
                     "title": "Brand Messaging",
-                    "description": "Developing a clear and compelling brand message is crucial for communicating the value of your game to potential players and distinguishing it from competitors.",
+                    "description": "Developing a clear and compelling brand message is fundamental for communicating the value of your game to potential players and distinguishing it from competitors.",
                     "buttonText": "Download Playbook",
                     "buttonLink": "https://alexandramaracinaru.notion.site/Player-Persona-Template-c922453157104731bf43c09730d3bc18"
                 }
@@ -53,7 +53,7 @@
         {
             "id": "identity",
             "title": "Identity Phase. Design Your Game's Brand",
-            "description": "This phase is centered around developing a strong brand identity that not only appeals visually but also aligns with the game's core themes and resonates with the target player personas. It involves two main components:",
+            "description": "This phase is centered around developing a strong brand identity that not only appeals visually but also aligns with the game's core themes and resonates with the target player persona(s). It involves two main components:",
             "cards": [
                 {
                     "color": "teal",
@@ -79,7 +79,7 @@
                 {
                     "color": "orange",
                     "title": "UX/UI Design",
-                    "description": "Creating an intuitive and enjoyable user experience is critical for keeping players engaged and reducing churn. This checklist helps ensure that every aspect of the game's user interface enhances the player's experience.",
+                    "description": "Creating an intuitive and enjoyable player experience is critical for keeping players engaged and reducing churn. This checklist helps ensure that every aspect of the game's (user) interface enhances the player's experience.",
                     "buttonText": "See UX/UI Checklist",
                     "buttonLink": "https://alexandramaracinaru.notion.site/Player-Persona-Template-c922453157104731bf43c09730d3bc18"
                 },
@@ -102,12 +102,12 @@
         {
             "id": "adaptation",
             "title": "Adaptation Phase. Evolve With Your Players",
-            "description": "This phase is about fine-tuning and evolving your game’s features, branding, and player interactions based on real-world feedback and insights. It consists of several critical components:",
+            "description": "This phase is about fine-tuning and evolving your game’s features, branding, and player interactions based on real-world feedback and insights. It consists of several components:",
             "cards": [
                 {
                     "color": "lilla",
                     "title": "Feedback Integration",
-                    "description": "Effectively collecting, analyzing, and integrating player feedback is essential for iterative game development. This framework provides structured methods to gather and utilize feedback to enhance game features and user experience.",
+                    "description": "Effectively collecting, analyzing, and integrating player feedback is essential for iterative game development. This phase provides structured methods to gather and utilize feedback to enhance game features and player experience.",
                     "buttonText": "Access System",
                     "buttonLink": "https://alexandramaracinaru.notion.site/Player-Persona-Template-c922453157104731bf43c09730d3bc18"
                 },
@@ -122,7 +122,7 @@
                     "color": "lighter-purple",
                     "title": "User-Generated Content",
                     "description": "Utilizing platforms where gamers already spend their time can enhance engagement and provide direct feedback mechanisms.",
-                    "buttonText": "Access Strategy",
+                    "buttonText": "Create Strategy",
                     "buttonLink": "https://alexandramaracinaru.notion.site/Player-Persona-Template-c922453157104731bf43c09730d3bc18"
                 },
                 {
