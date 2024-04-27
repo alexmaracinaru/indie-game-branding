@@ -23,7 +23,6 @@ function populateHTML(data) {
     phaseTemplate.querySelector(".main-heading").textContent = phase.title;
     phaseTemplate.querySelector(".phase-desc").textContent = phase.description;
     const toolkitContainer = phaseTemplate.querySelector(".toolkit-container");
-
     phase.cards.forEach((card) => {
       const cardTemplate = document
         .getElementById("card-template")
